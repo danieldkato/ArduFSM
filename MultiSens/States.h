@@ -156,7 +156,7 @@ into States.cpp.
 #define STPR1_CCW -50
 #define HALL_VAL 500  
 #define STEP_HALFDELAY_US 1100
-#define MICROSTEP 16
+#define MICROSTEP 4
 #define REVERSE_ROTATION_DEGREES 50
 
 //// States
